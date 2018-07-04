@@ -1,0 +1,10 @@
+C:\Users\carly\source\repos\SimpleCals\SimpleCals\bin\Debug\SimpleCals.exe.config
+C:\Users\carly\source\repos\SimpleCals\SimpleCals\bin\Debug\SimpleCals.exe
+C:\Users\carly\source\repos\SimpleCals\SimpleCals\bin\Debug\SimpleCals.pdb
+C:\Users\carly\source\repos\SimpleCals\SimpleCals\obj\Debug\SimpleCals.csprojAssemblyReference.cache
+C:\Users\carly\source\repos\SimpleCals\SimpleCals\obj\Debug\SimpleCals.Form1.resources
+C:\Users\carly\source\repos\SimpleCals\SimpleCals\obj\Debug\SimpleCals.Properties.Resources.resources
+C:\Users\carly\source\repos\SimpleCals\SimpleCals\obj\Debug\SimpleCals.csproj.GenerateResource.cache
+C:\Users\carly\source\repos\SimpleCals\SimpleCals\obj\Debug\SimpleCals.csproj.CoreCompileInputs.cache
+C:\Users\carly\source\repos\SimpleCals\SimpleCals\obj\Debug\SimpleCals.exe
+C:\Users\carly\source\repos\SimpleCals\SimpleCals\obj\Debug\SimpleCals.pdb
