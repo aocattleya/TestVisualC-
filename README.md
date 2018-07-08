@@ -1,7 +1,7 @@
 
 # TestVisualC#
-C# VisualStudio2017環境に触れる　いくつかのアプリ開発  
-
+### C# VisualStudio2017環境に触れる  
+本『作って覚えるVisualC# 2017』を参考に、いくつかのアプリを開発
 
 
 | アプリ名 | 見た目 | 
