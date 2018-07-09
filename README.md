@@ -1,5 +1,5 @@
 
-## VisualC# VisualStudio2017環境に触れる  
+## VisualC#　VisualStudio2017環境に触れる  
 #### 本『作って覚えるVisualC# 2017』を参考に、いくつかのアプリを開発    
   
 アプリの使用  
