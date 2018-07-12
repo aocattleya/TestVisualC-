@@ -2,9 +2,9 @@
 ## 【Visual C#】.NET Framework　- VisualStudio2017環境に触れる -  
 #### 本『作って覚えるVisualC# 2017』を参考に、いくつかのアプリを開発  
 
-【アプリの使用】 ※ Windowsのみ  
-１、このページ右上の [Clone or download] → [Download ZIP] → ファイルを解凍  
-２、好きなアプリをクリック → フォルダをもう一度クリック → [bin] → [Debug] → [〇〇〇.exe]で使用できます。
+■ アプリの使用 ■ ※Windowsのみ  
+　１、このページ右上の [Clone or download] → [Download ZIP] → ファイルを解凍  
+　２、好きなアプリをクリック → フォルダをもう一度クリック → [bin] → [Debug] → [〇〇〇.exe]で使用できます。  
 
 | アプリ名 | 見た目 | 備考 |
 | -- | -- | -- |
