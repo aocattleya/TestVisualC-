@@ -16,8 +16,8 @@
 | Twitter投稿アプリ | [![twitterpost](https://user-images.githubusercontent.com/39142850/42652758-56e00f00-864e-11e8-8f64-ca550ea70f44.jpg)](https://github.com/aocattleya/TestVisualC-/blob/master/TwitterPost/TwitterPost/Form1.cs) | 下記へ記載　[※1](#※1) |
 | 間違いボール探しゲーム | [![movecircle](https://user-images.githubusercontent.com/39142850/42757022-6de15e00-8939-11e8-9a5f-84b647f7b0f8.jpg)](https://github.com/aocattleya/TestVisualC-/blob/master/MoveCircle/MoveCircle/Form1.cs) | 下記に記載　[※2](#※2)|
 | 簡易家計簿 | ![myhousekeepingbook](https://user-images.githubusercontent.com/39142850/42778437-039a7b46-8978-11e8-88d4-8121a462e2ee.jpg) | 下記に記載　[※3](#※3) |  
-
 　  
+----  
 ### <a name="※1"></a>※1　Twitter投稿アプリ  
 　手順：１、アプリの[Twitter連携]ボタンを押すとブラウザが立ち上がる  
 　　　　２、ブラウザの[連携アプリを認証]を押すとPINコードが画面に出るのでアプリにコピーする  
@@ -28,14 +28,14 @@
 　 又は、Twitterの[設定とプライバシー] → [アプリ連携] → [許可を取り消す]で連携解除できます。  
 ・ 連携したままでも特に何もありません。  
 　  
-　  
+  
 ### <a name="※2"></a>※2　間違いボール探しゲーム  
   ★ ゲームのルール ★  
   　  ・一つだけ違う文字があります。  
   　  ・見つけたら上の5種の中から同じ色のボールをクリック  
   　  ・間違えたら +10秒 されてボールの速度が落ちます。  
 　  
-　  
+  
 ### <a name="※3"></a>※3　簡易家計簿  
 　下にある[追加ボタン]をクリックすると登録用の項目が表示されます。  
 　  
@@ -53,5 +53,4 @@
 　　入金合計 - 給料  
 　　出金合計 - 食費, 雑費, 住居  
 　  
-　　※ 追加ボタンで "分類" に指定した内容が入出金として集計されます。  
-　
+　　※ 追加ボタンで "分類" に指定した内容が入出金として集計されます。
