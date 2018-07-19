@@ -1,0 +1,11 @@
+C:\Users\carly\Desktop\MyHouseKeepingBook\MyHouseKeepingBook\bin\Release\MyHouseKeepingBook.exe.config
+C:\Users\carly\Desktop\MyHouseKeepingBook\MyHouseKeepingBook\bin\Release\MyHouseKeepingBook.exe
+C:\Users\carly\Desktop\MyHouseKeepingBook\MyHouseKeepingBook\bin\Release\MyHouseKeepingBook.pdb
+C:\Users\carly\Desktop\MyHouseKeepingBook\MyHouseKeepingBook\obj\Release\MyHouseKeepingBook.Form1.resources
+C:\Users\carly\Desktop\MyHouseKeepingBook\MyHouseKeepingBook\obj\Release\MyHouseKeepingBook.ItemForm.resources
+C:\Users\carly\Desktop\MyHouseKeepingBook\MyHouseKeepingBook\obj\Release\MyHouseKeepingBook.Properties.Resources.resources
+C:\Users\carly\Desktop\MyHouseKeepingBook\MyHouseKeepingBook\obj\Release\MyHouseKeepingBook.csproj.GenerateResource.cache
+C:\Users\carly\Desktop\MyHouseKeepingBook\MyHouseKeepingBook\obj\Release\MyHouseKeepingBook.csproj.CoreCompileInputs.cache
+C:\Users\carly\Desktop\MyHouseKeepingBook\MyHouseKeepingBook\obj\Release\MyHouseKeepingBook.exe
+C:\Users\carly\Desktop\MyHouseKeepingBook\MyHouseKeepingBook\obj\Release\MyHouseKeepingBook.pdb
+C:\Users\carly\Desktop\MyHouseKeepingBook\MyHouseKeepingBook\obj\Release\MyHouseKeepingBook.csprojAssemblyReference.cache
