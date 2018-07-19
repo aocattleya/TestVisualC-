@@ -1,0 +1,15 @@
+C:\Users\carly\source\repos\TwitterPost\TwitterPost\bin\Debug\TwitterPost.exe.config
+C:\Users\carly\source\repos\TwitterPost\TwitterPost\bin\Debug\TwitterPost.exe
+C:\Users\carly\source\repos\TwitterPost\TwitterPost\bin\Debug\TwitterPost.pdb
+C:\Users\carly\source\repos\TwitterPost\TwitterPost\bin\Debug\CoreTweet.dll
+C:\Users\carly\source\repos\TwitterPost\TwitterPost\bin\Debug\Newtonsoft.Json.dll
+C:\Users\carly\source\repos\TwitterPost\TwitterPost\bin\Debug\CoreTweet.xml
+C:\Users\carly\source\repos\TwitterPost\TwitterPost\bin\Debug\Newtonsoft.Json.xml
+C:\Users\carly\source\repos\TwitterPost\TwitterPost\obj\Debug\TwitterPost.csprojAssemblyReference.cache
+C:\Users\carly\source\repos\TwitterPost\TwitterPost\obj\Debug\TwitterPost.FormTwitterPost.resources
+C:\Users\carly\source\repos\TwitterPost\TwitterPost\obj\Debug\TwitterPost.Properties.Resources.resources
+C:\Users\carly\source\repos\TwitterPost\TwitterPost\obj\Debug\TwitterPost.csproj.GenerateResource.cache
+C:\Users\carly\source\repos\TwitterPost\TwitterPost\obj\Debug\TwitterPost.csproj.CoreCompileInputs.cache
+C:\Users\carly\source\repos\TwitterPost\TwitterPost\obj\Debug\TwitterPost.csproj.CopyComplete
+C:\Users\carly\source\repos\TwitterPost\TwitterPost\obj\Debug\TwitterPost.exe
+C:\Users\carly\source\repos\TwitterPost\TwitterPost\obj\Debug\TwitterPost.pdb
