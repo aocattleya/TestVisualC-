@@ -1,9 +1,0 @@
-C:\Users\carly\Desktop\Fusen\Fusen\bin\Release\Fusen.exe.config
-C:\Users\carly\Desktop\Fusen\Fusen\bin\Release\Fusen.exe
-C:\Users\carly\Desktop\Fusen\Fusen\bin\Release\Fusen.pdb
-C:\Users\carly\Desktop\Fusen\Fusen\obj\Release\Fusen.FormFusen.resources
-C:\Users\carly\Desktop\Fusen\Fusen\obj\Release\Fusen.Properties.Resources.resources
-C:\Users\carly\Desktop\Fusen\Fusen\obj\Release\Fusen.csproj.GenerateResource.cache
-C:\Users\carly\Desktop\Fusen\Fusen\obj\Release\Fusen.csproj.CoreCompileInputs.cache
-C:\Users\carly\Desktop\Fusen\Fusen\obj\Release\Fusen.exe
-C:\Users\carly\Desktop\Fusen\Fusen\obj\Release\Fusen.pdb
