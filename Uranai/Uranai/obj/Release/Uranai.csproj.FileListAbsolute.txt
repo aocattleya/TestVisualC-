@@ -1,9 +1,0 @@
-C:\Users\carly\Desktop\Uranai\Uranai\bin\Release\Uranai.exe.config
-C:\Users\carly\Desktop\Uranai\Uranai\bin\Release\Uranai.exe
-C:\Users\carly\Desktop\Uranai\Uranai\bin\Release\Uranai.pdb
-C:\Users\carly\Desktop\Uranai\Uranai\obj\Release\Uranai.FormUranai.resources
-C:\Users\carly\Desktop\Uranai\Uranai\obj\Release\Uranai.Properties.Resources.resources
-C:\Users\carly\Desktop\Uranai\Uranai\obj\Release\Uranai.csproj.GenerateResource.cache
-C:\Users\carly\Desktop\Uranai\Uranai\obj\Release\Uranai.csproj.CoreCompileInputs.cache
-C:\Users\carly\Desktop\Uranai\Uranai\obj\Release\Uranai.exe
-C:\Users\carly\Desktop\Uranai\Uranai\obj\Release\Uranai.pdb
