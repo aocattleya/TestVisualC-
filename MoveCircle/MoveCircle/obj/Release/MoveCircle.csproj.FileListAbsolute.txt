@@ -1,9 +1,0 @@
-C:\Users\carly\Desktop\MoveCircle\MoveCircle\bin\Release\MoveCircle.exe.config
-C:\Users\carly\Desktop\MoveCircle\MoveCircle\bin\Release\MoveCircle.exe
-C:\Users\carly\Desktop\MoveCircle\MoveCircle\bin\Release\MoveCircle.pdb
-C:\Users\carly\Desktop\MoveCircle\MoveCircle\obj\Release\MoveCircle.FormBallGame.resources
-C:\Users\carly\Desktop\MoveCircle\MoveCircle\obj\Release\MoveCircle.Properties.Resources.resources
-C:\Users\carly\Desktop\MoveCircle\MoveCircle\obj\Release\MoveCircle.csproj.GenerateResource.cache
-C:\Users\carly\Desktop\MoveCircle\MoveCircle\obj\Release\MoveCircle.csproj.CoreCompileInputs.cache
-C:\Users\carly\Desktop\MoveCircle\MoveCircle\obj\Release\MoveCircle.exe
-C:\Users\carly\Desktop\MoveCircle\MoveCircle\obj\Release\MoveCircle.pdb
