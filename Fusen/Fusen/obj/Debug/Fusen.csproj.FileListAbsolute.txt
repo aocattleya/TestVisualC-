@@ -1,0 +1,10 @@
+C:\Users\carly\source\repos\Fusen\Fusen\bin\Debug\Fusen.exe.config
+C:\Users\carly\source\repos\Fusen\Fusen\bin\Debug\Fusen.exe
+C:\Users\carly\source\repos\Fusen\Fusen\bin\Debug\Fusen.pdb
+C:\Users\carly\source\repos\Fusen\Fusen\obj\Debug\Fusen.csprojAssemblyReference.cache
+C:\Users\carly\source\repos\Fusen\Fusen\obj\Debug\Fusen.FormFusen.resources
+C:\Users\carly\source\repos\Fusen\Fusen\obj\Debug\Fusen.Properties.Resources.resources
+C:\Users\carly\source\repos\Fusen\Fusen\obj\Debug\Fusen.csproj.GenerateResource.cache
+C:\Users\carly\source\repos\Fusen\Fusen\obj\Debug\Fusen.csproj.CoreCompileInputs.cache
+C:\Users\carly\source\repos\Fusen\Fusen\obj\Debug\Fusen.exe
+C:\Users\carly\source\repos\Fusen\Fusen\obj\Debug\Fusen.pdb
