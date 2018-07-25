@@ -1,0 +1,9 @@
+C:\Users\carly\Desktop\KanjiDifferenceHunt\KanjiDifferenceHunt\bin\Release\KanjiDifferenceHunt.exe.config
+C:\Users\carly\Desktop\KanjiDifferenceHunt\KanjiDifferenceHunt\bin\Release\KanjiDifferenceHunt.exe
+C:\Users\carly\Desktop\KanjiDifferenceHunt\KanjiDifferenceHunt\bin\Release\KanjiDifferenceHunt.pdb
+C:\Users\carly\Desktop\KanjiDifferenceHunt\KanjiDifferenceHunt\obj\Release\KanjiDifferenceHunt.FormGame.resources
+C:\Users\carly\Desktop\KanjiDifferenceHunt\KanjiDifferenceHunt\obj\Release\KanjiDifferenceHunt.Properties.Resources.resources
+C:\Users\carly\Desktop\KanjiDifferenceHunt\KanjiDifferenceHunt\obj\Release\KanjiDifferenceHunt.csproj.GenerateResource.cache
+C:\Users\carly\Desktop\KanjiDifferenceHunt\KanjiDifferenceHunt\obj\Release\KanjiDifferenceHunt.csproj.CoreCompileInputs.cache
+C:\Users\carly\Desktop\KanjiDifferenceHunt\KanjiDifferenceHunt\obj\Release\KanjiDifferenceHunt.exe
+C:\Users\carly\Desktop\KanjiDifferenceHunt\KanjiDifferenceHunt\obj\Release\KanjiDifferenceHunt.pdb
