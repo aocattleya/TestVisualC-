@@ -1,6 +1,6 @@
 
-## 【Visual C#】.NET Framework / VisualStudio環境に触れる
-#### 本『作って覚えるVisualC# 2017』を参考に、いくつかのアプリを開発  
+## 【Visual C#】.NET Framework / VisualStudio2017環境に触れる
+#### 書籍『作って覚えるVisualC# 2017』を参考に、いくつかのアプリを開発  
 
 　【アプリの使用】 ※ Windowsのみ  
 １、このページ右上の [Clone or download] → [Download ZIP] → DLしたフォルダーを解凍する  
