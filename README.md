@@ -57,4 +57,9 @@
 　　　 カレンダー(MouthCalenderコントロール)は、Windowsのバージョンによって大きさが違うようです。  
 　　 　Window10推奨、カレンダーの大きさ以外は同じです。  
 　  
-修正済：一覧表示(DataGridView)にそのまま記入するとエラーが出る
+修正済：一覧表示(DataGridView)にそのまま記入するとエラーが出る  
+　  
+### 【 学習用リポジトリ HTML ～ Java：Learned-List 】  
+　- https://github.com/aocattleya/Learned-List
+### 【 チーム製作へのリンク用リポジトリ：LeisurePass 】  
+　- https://github.com/aocattleya/Team-LeisurePass
