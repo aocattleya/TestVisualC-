@@ -59,7 +59,7 @@
 　  
 修正済：一覧表示(DataGridView)にそのまま記入するとエラーが出る  
 　  
-### 【 学習用リポジトリ HTML ～ Java：Learned-List 】  
+### 【 学習用リポジトリ：HTML ～ Java / Learned-List 】  
 　- https://github.com/aocattleya/Learned-List
 ### 【 チーム製作へのリンク用リポジトリ：LeisurePass 】  
 　- https://github.com/aocattleya/Team-LeisurePass
