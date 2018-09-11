@@ -6,7 +6,7 @@
 １、このページ右上の [Clone or download] → [Download ZIP] → DLしたフォルダーを解凍する  
 ２、好きなアプリをクリック → [〇〇〇.exe]で使用できます。  
 
-| アプリ名 | 見た目 | 備考 |
+| アプリ名 | 見た目（画像をクリックすると記述したコードが展開されます） | 備考 |
 | -- | -- | -- |
 | 簡単計算プログラム | [![simplecals](https://user-images.githubusercontent.com/39142850/42465438-ec2e5fd6-83e6-11e8-95c4-b375aa308b8d.jpg)](https://github.com/aocattleya/TestVisualC-/blob/master/SimpleCals/SimpleCals/Form1.cs) | 数字以外は 0 |
 | タイマー | [![timer](https://user-images.githubusercontent.com/39142850/42465442-f0d8d96c-83e6-11e8-8c87-dae8b94006c8.jpg)](https://github.com/aocattleya/TestVisualC-/blob/master/Timer/Timer/Form1.cs) | カウントダウン式 |
